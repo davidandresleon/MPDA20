@@ -1,7 +1,9 @@
 import random
 import math
 
-import myLibrary
+#import my own library to the working file
+#must include folder in Options > Module Search Paths
+#import myLibrary
 
 print myLibrary.myVariable
 print myLibrary.addition(10,20)
