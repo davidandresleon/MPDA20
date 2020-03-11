@@ -3,6 +3,7 @@
 
 ### K-means algorithm - Part 1
 
+MPDA20_AT-APY-01-kmeans.gh is the file from last class. (right click, Save As to download)
 
 ### Exercise 01
 1. Convert the 2D K-Means algorithm that we developed in class to 3D-Kmeans by using 3D Points and 3D Voronoi using the same logic.
