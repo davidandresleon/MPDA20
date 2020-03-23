@@ -3,7 +3,7 @@
 
 ### K-means clustering algorithm - Part 2
 
-![Multi dimensional K-Means clustering](https://github.com/dadandroid/MPDA20/blob/master/AT.APY/Session02/assignment02/MPDA20_assignment2.jpg "multi dimensional K-Means clustering")
+![Multi dimensional K-Means clustering](https://github.com/dadandroid/MPDA20/blob/master/AT.APY/Session02/img/kmeans03.jpg "multi dimensional K-Means clustering")
 
 [MPDA20_AT-APY-02-kmeans-multid.gh](https://github.com/dadandroid/MPDA20/blob/master/AT.APY/Session02/MPDA20_AT-APY-02-kmeans-multid.gh) is the file from last class. Click on the link and press download on the corner. 
 
